@@ -1,0 +1,4 @@
+# Final Project
+### Final project for CPSC 222
+### By: Caleb Barker
+#### In the first section you need to insert your own data so that the function can use your own data than change the if statements for downloading data to 1.  This will than make all the graphs.  For my data I used I report Td Ameritrade so if the report is from them it will be cleaned and work automatically.  In the section at the end with the machine learning in order to be able to pick a stock insert the ticker symbol into the variable ticker this will allow for the program to do machine learning on that stock.  You can mess with the variables that are commented out to try and increase how effective it is at predicting that stock. 
